@@ -4,8 +4,6 @@ public class Question2 {
         String str1 = "Sing";
         String str2 = "Gins";
 
-        str1 = str1.toLowerCase();
-        str2 = str2.toLowerCase();
 
         if(str1.length() == str2.length()) {
 
